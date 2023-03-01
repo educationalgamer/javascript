@@ -1,3 +1,5 @@
+//setinterval and settimeout
+
 var counter=document.querySelector('.counter');
 var follower=document.querySelector('.followers');
 

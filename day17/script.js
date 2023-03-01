@@ -1,3 +1,5 @@
+//computed properties
+
 const red=document.querySelector(".red");
 const cyan=document.querySelector(".cyan");
 const violet=document.querySelector(".violet");
